@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\pyModbusTCP",
+    "\\pyModbusTCP\\examples",
+    "\\pyModbusTCP\\pyModbusTCP",
+    "\\pyModbusTCP\\pyModbusTCP\\__pycache__",
+    "\\pyModbusTCP\\tests"
+  ],
+  "SelectedNode": "\\RPI_3",
+  "PreviewInSolutionExplorer": false
+}
